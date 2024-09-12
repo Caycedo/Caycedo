@@ -1,6 +1,6 @@
-# Hi there, I'm Caycedo 👋
+# Hi there, 👋
 
-I'm a Go developer based in the U.S, Welcome to my GitHub!
+I am a Go developer based in the U.S, welcome to my GitHub!
 
 ## 🚀 About Me
-- 🔭 I'm currently working on data science projects.
+- 🔭 I am currently working on a data science library written in Go!
